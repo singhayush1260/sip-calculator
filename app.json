@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "spi-calculator",
-    "slug": "spi-calculator",
+    "name": "sip-calculator",
+    "slug": "sip-calculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
